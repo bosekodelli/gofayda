@@ -161,6 +161,12 @@ gofayda/
 
 ---
 
+## 📖 Deployment & Troubleshooting Guide
+
+For complete instructions on deploying this app on **aaPanel / Nginx**, fixing the default placeholder page, setting up SPA URL rewrite rules, and troubleshooting errors, see the **[Deployment & Troubleshooting Guide](DEPLOYMENT_TROUBLESHOOTING.md)**.
+
+---
+
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
